@@ -34,10 +34,9 @@ Source:Medical Cost Personal Dataset
  ##### 4.model evaluation
     model evaluated using the Mean Squared Error
  ###### 5.Coefficient Interpretation
-     model shows how changes in age , bmi ,number of children and smoking status      affect predicted insurance charges while keeping the other variable              constant
+     model shows how changes in age , bmi ,number of children and smoking status  affect predicted insurance charges while keeping the other variable constant
  ###### 6.prediction
-     Model used to predict insurance charges for new individual based on
-     age, bmi, number of children and smoking status
+     Model used to predict insurance charges for new individual based on age, bmi, number of children and smoking status
     
     
  
