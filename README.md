@@ -26,8 +26,8 @@ Source:Medical Cost Personal Dataset
 ## 1.data inspection
    load data to check the dataset to check data types and summary statistics
    
-###2.Data preparation
-      missing values were checked and smoking variable converted into numerical       format
+### 2.Data preparation
+    missing values were checked and smoking variable converted into numerical format
     0 = Non-smoker
     1 = Smoker
  #### 3.train-test-slit method
