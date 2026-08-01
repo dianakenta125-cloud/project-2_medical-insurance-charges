@@ -18,11 +18,11 @@ Source:Medical Cost Personal Dataset
     smoker
   ### Dependent variables
       charges
-####libraries
+#Libraries
   pandas
   scikit-learn
   
-#####work flow
+#Work flow
  1.data inspection
    load data to check the dataset to check data types and summary statistics
  2.Data preparation
