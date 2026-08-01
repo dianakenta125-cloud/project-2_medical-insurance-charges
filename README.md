@@ -1,7 +1,7 @@
 # Project-2_Medical Insurance Charges
 Project uses multiple linear regression to predict medical insurance charges based on patients characteristics.
 Source:Medical Cost Personal Dataset
-  ##features
+  ## features
    age
   -sex
   - bmi
@@ -10,7 +10,7 @@ Source:Medical Cost Personal Dataset
   - region 
 - insurance charges
   
-  ##variable used
+  ## variable used
  ### independent variables
      bmi
      children
@@ -22,7 +22,7 @@ Source:Medical Cost Personal Dataset
   pandas
   scikit-learn
   
-#Work flow
+ # Work flow
 ## 1.data inspection
    load data to check the dataset to check data types and summary statistics
    
